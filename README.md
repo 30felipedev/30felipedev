@@ -1,5 +1,7 @@
 # Hey 👋 What's up?
-
+<p align="center">
+  <img src="https://media.tenor.com/MX3OGUO3oyIAAAAC/pokemon-turtwig.gif" width="200"/>
+</p>
 My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  
 Lover of tech & coffee ☕  
 
@@ -22,10 +24,6 @@ Lover of tech & coffee ☕
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
----
-
-
-<div class="tenor-gif-embed" data-postid="24760602" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pokemon-turtwig-turtwig-pokemon-pokemon-turtwig-gif-24760602">Pokemon Turtwig Sticker</a>from <a href="https://tenor.com/search/pokemon-stickers">Pokemon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 ### Connect with me:
