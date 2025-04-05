@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey 👋 What's up?
 
-<!--
-**30felipedev/30felipedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  
+Lover of tech & coffee ☕  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+- 🖥️ Focused on backend & APIs
+- 🔥 Currently studying PostgreSQL, Docker
+- 💡 Passionate about learning and solving problems
+
+---
+
+### Tech Stack:
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+---
+
+### Anime Vibes:
+> *"Hard work beats talent when talent doesn't work hard."* — Rock Lee 🍃
+
+![gifzinho anime](url-do-gif)
+
+---
+
+### Connect with me:
+[![LinkedIn](url-icon)](https://linkedin.com/seu-link)
+[![Instagram](url-icon)](https://instagram.com/seu-link)
+[![Portfolio](url-icon)](https://seu-site.vercel.app)
