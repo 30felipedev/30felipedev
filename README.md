@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 <p align="center">
-  <img src="https://imgur.com/a/ZwdIosm" width="150"/>
+  <img src="https://i.imgur.com/ipI5nW3.gif" width="150"/>
 </p>
 My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  
 Lover of tech & coffee ☕  
