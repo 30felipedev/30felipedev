@@ -6,7 +6,8 @@ My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷
 Lover of tech & coffee ☕ 
 </p>
  
-
+<br>
+<br>
 ---
 
 ### About me:
