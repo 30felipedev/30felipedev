@@ -1,9 +1,10 @@
 # Hey 👋 What's up?
+My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  
+Lover of tech & coffee ☕ 
 <p align="right">
   <img src="https://i.imgur.com/ipI5nW3.gif" width="150"/>
 </p>
-My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  
-Lover of tech & coffee ☕  
+ 
 
 ---
 
