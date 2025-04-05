@@ -1,7 +1,6 @@
 # Hey 👋 What's up?
 <p align="center">
   <img src="https://media.tenor.com/MX3OGUO3oyIAAAAC/pokemon-turtwig.gif" width="150"/>
-" width="200"/>
 </p>
 My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  
 Lover of tech & coffee ☕  
