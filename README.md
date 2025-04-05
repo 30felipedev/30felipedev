@@ -30,6 +30,7 @@ Lover of tech & coffee ☕
 ---
 
 ### Connect with me:
-[![LinkedIn](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="30">)](https://www.linkedin.com/in/felipe-barretto-990054304/)     
-
+<a href="https://www.linkedin.com/in/felipe-barretto-990054304/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="30" alt="LinkedIn">
+</a>
 
