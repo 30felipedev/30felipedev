@@ -25,7 +25,7 @@ Lover of tech & coffee ☕
 ---
 
 
-![gifzinho anime](url-do-gif)
+![gifzinho anime](https://tenor.com/pt-BR/view/pokemon-turtwig-turtwig-pokemon-pokemon-turtwig-gif-24760602)
 
 ---
 
