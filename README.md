@@ -34,7 +34,7 @@ Lover of tech & coffee ☕
 <a href="https://www.linkedin.com/in/felipe-barretto-990054304/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="30" alt="LinkedIn">
 </a>
-
+<br>
 
 <p align="center"> > "Keep learning. Keep growing. 🚀"
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:15803d&height=120&section=footer"/>
