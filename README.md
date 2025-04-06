@@ -7,7 +7,7 @@ My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷
 Lover of tech & coffee ☕   
 
 [![Code Status](https://img.shields.io/badge/Coding-Always-green?style=for-the-badge&logo=github)](https://github.com/30felipedev)
-
+<br></br>
 
 
 
