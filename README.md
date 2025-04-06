@@ -2,7 +2,7 @@
 
 <p>
 <img align="right" src="https://i.imgur.com/ipI5nW3.gif" width="150"/>
-My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  
+My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  </br>
 Lover of tech & coffee ☕ 
 </p>
  
