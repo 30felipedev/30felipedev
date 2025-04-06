@@ -38,5 +38,5 @@ Lover of tech & coffee ☕
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:15803d&height=120&section=footer"/>
 </p>
