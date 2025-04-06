@@ -4,9 +4,8 @@
 <img align="right" src="https://i.imgur.com/ipI5nW3.gif" width="200"/>
 My name is Felipe and I'm a Fullstack Developer from Brazil 🇧🇷  </br>
 Lover of tech & coffee ☕ 
-![Code Status](https://img.shields.io/badge/Coding-Always-green?style=for-the-badge&logo=github)
 </p>
- 
+ ![Code Status](https://img.shields.io/badge/Coding-Always-green?style=for-the-badge&logo=github)
 
 <br></br>
 <br></br>
