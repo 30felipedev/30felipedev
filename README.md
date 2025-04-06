@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:15803d&height=120&section=header"/>
 </p>
-<img align="right" src="https://i.imgur.com/ipI5nW3.gif" width="130"/>
-
+<img align="right" src="https://i.imgur.com/ipI5nW3.gif" width="115"/>
 My name is Felipe and I'm a Back-End Developer from Brazil 🇧🇷 
 
 Lover of tech & coffee ☕   
