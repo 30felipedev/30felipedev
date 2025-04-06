@@ -36,7 +36,6 @@ Lover of tech & coffee ☕
 </a>
 
 
-<p align="center"> > "Keep learning. Keep growing. 🚀"</p>
-<p align="center">
+<p align="center"> > "Keep learning. Keep growing. 🚀"
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:15803d&height=120&section=footer"/>
 </p>
