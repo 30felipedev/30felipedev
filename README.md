@@ -17,7 +17,7 @@ Lover of tech & coffee ☕
 
 ---
 
-### Tech Stack:
+### 🧰 Languages & Tools:
 <div style="display: inline_block"><br/>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -33,3 +33,8 @@ Lover of tech & coffee ☕
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="30" alt="LinkedIn">
 </a>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=120&section=footer"/>
+</p>
